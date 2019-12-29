@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04bf4c90-5719-48ab-9d15-ef03b3927872" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SnIrXtNx7XByew1mH03Nhfr8GH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Project\DjReact\Frontend\gui\src\layouts" />
+      <recent name="E:\Project\DjReact\Frontend\gui\src\assets\scss" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Project\DjReact\Frontend\gui\src\assets" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04bf4c90-5719-48ab-9d15-ef03b3927872" name="Default Changelist" comment="" />
+      <created>1572193132355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572193132355</updated>
+      <workItem from="1572193137261" duration="6831000" />
+      <workItem from="1572253660801" duration="6543000" />
+      <workItem from="1572283279150" duration="5334000" />
+      <workItem from="1572331356423" duration="7184000" />
+      <workItem from="1572430703277" duration="2745000" />
+      <workItem from="1572687871058" duration="854000" />
+      <workItem from="1573233457016" duration="272000" />
+      <workItem from="1573233819420" duration="7876000" />
+      <workItem from="1573243183811" duration="3396000" />
+      <workItem from="1573281776546" duration="3645000" />
+      <workItem from="1573320647395" duration="834000" />
+      <workItem from="1573332192530" duration="595000" />
+      <workItem from="1573392605379" duration="7441000" />
+      <workItem from="1573547043142" duration="4531000" />
+      <workItem from="1573580764178" duration="1810000" />
+      <workItem from="1573663083571" duration="8941000" />
+      <workItem from="1573931896758" duration="4525000" />
+      <workItem from="1574184386561" duration="7618000" />
+      <workItem from="1574245001994" duration="4051000" />
+      <workItem from="1574269842767" duration="1384000" />
+      <workItem from="1574318706032" duration="136000" />
+      <workItem from="1574319073224" duration="5800000" />
+      <workItem from="1574355348235" duration="669000" />
+      <workItem from="1574400506837" duration="2488000" />
+      <workItem from="1574428396670" duration="3805000" />
+      <workItem from="1574452405203" duration="4834000" />
+      <workItem from="1574486055659" duration="3823000" />
+      <workItem from="1574513378579" duration="3487000" />
+      <workItem from="1574787061643" duration="1134000" />
+      <workItem from="1574829625932" duration="767000" />
+      <workItem from="1574833679202" duration="600000" />
+      <workItem from="1574964830117" duration="603000" />
+      <workItem from="1575394484210" duration="594000" />
+      <workItem from="1575440847178" duration="5035000" />
+      <workItem from="1575478718870" duration="8072000" />
+      <workItem from="1575529946286" duration="594000" />
+      <workItem from="1575572199583" duration="4401000" />
+      <workItem from="1575634661828" duration="2890000" />
+      <workItem from="1575654969516" duration="595000" />
+      <workItem from="1575741365920" duration="3111000" />
+      <workItem from="1575748952874" duration="23000" />
+      <workItem from="1575782766202" duration="4949000" />
+      <workItem from="1575808969810" duration="7627000" />
+      <workItem from="1575830272916" duration="3022000" />
+      <workItem from="1575879968875" duration="3295000" />
+      <workItem from="1575895401016" duration="4554000" />
+      <workItem from="1575962588777" duration="7012000" />
+      <workItem from="1575996736039" duration="4144000" />
+      <workItem from="1576073557265" duration="1204000" />
+      <workItem from="1576084055422" duration="2220000" />
+      <workItem from="1576156255427" duration="183000" />
+      <workItem from="1576161721012" duration="2289000" />
+      <workItem from="1576165947216" duration="10159000" />
+      <workItem from="1576230729998" duration="3766000" />
+      <workItem from="1576247550629" duration="483000" />
+      <workItem from="1576348165374" duration="2978000" />
+      <workItem from="1576393120594" duration="9293000" />
+      <workItem from="1576415772119" duration="5462000" />
+      <workItem from="1576426507108" duration="8406000" />
+      <workItem from="1576521164803" duration="2195000" />
+      <workItem from="1576561234873" duration="8108000" />
+      <workItem from="1576602581692" duration="13513000" />
+      <workItem from="1576651721782" duration="1034000" />
+      <workItem from="1576674628290" duration="4245000" />
+      <workItem from="1576770413773" duration="7344000" />
+      <workItem from="1576785472104" duration="1693000" />
+      <workItem from="1576846922923" duration="2321000" />
+      <workItem from="1576862472482" duration="1334000" />
+      <workItem from="1576909109441" duration="2899000" />
+      <workItem from="1576950617611" duration="8729000" />
+      <workItem from="1577011147259" duration="7678000" />
+      <workItem from="1577027120872" duration="12875000" />
+      <workItem from="1577074116513" duration="9598000" />
+      <workItem from="1577116451306" duration="8073000" />
+      <workItem from="1577210638398" duration="1189000" />
+      <workItem from="1577277213847" duration="686000" />
+      <workItem from="1577382546562" duration="4559000" />
+      <workItem from="1577459249856" duration="9276000" />
+      <workItem from="1577551056842" duration="5381000" />
+      <workItem from="1577626223237" duration="592000" />
+      <workItem from="1577638244482" duration="8454000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="363" y="95" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575748891599">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="363" y="95" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.736@0.0.1366.736" timestamp="1575748891599" />
+    <state x="438" y="211" key="cloudConfig.SelfSettingsDialog" timestamp="1576862871939">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="438" y="211" key="cloudConfig.SelfSettingsDialog/0.0.1366.736@0.0.1366.736" timestamp="1576862871939" />
+    <state x="0" y="0" width="758" height="736" key="find.popup" timestamp="1577641076734">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="0" y="0" width="758" height="736" key="find.popup/0.0.1366.736@0.0.1366.736" timestamp="1577641076734" />
+    <state x="339" y="164" key="run.anything.popup" timestamp="1577077361364">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="339" y="164" key="run.anything.popup/0.0.1366.736@0.0.1366.736" timestamp="1577077361364" />
+    <state x="346" y="57" width="672" height="678" key="search.everywhere.popup" timestamp="1575811109520">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="346" y="57" width="672" height="678" key="search.everywhere.popup/0.0.1366.736@0.0.1366.736" timestamp="1575811109520" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/reducers/ItemListReducer.js</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
